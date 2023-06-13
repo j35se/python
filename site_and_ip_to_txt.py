@@ -1,7 +1,3 @@
-# Add error handeling
-
-
-
 from datetime import datetime
 import socket as s
 
